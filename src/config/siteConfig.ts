@@ -16,8 +16,7 @@ export const siteConfig: SiteConfig = {
 	site_url: "https://blog-chuci.vercel.app",
 
 	// 站点描述
-	description:
-		"一个普通的博客，记录学习。",
+	description: "一个普通的博客，记录学习。",
 
 	// 站点关键词
 	keywords: [
