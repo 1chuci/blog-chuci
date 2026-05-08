@@ -1,31 +1,54 @@
 # 关于我 / About Me
 
-你好！我是 **楚辞** ，一个在数字世界中默默无闻的普通人。
+你好，我是 **楚辞**。
+
+一个对概率模型和贝叶斯方法感兴趣的机器学习爱好者。目前大部分精力用在学习上，偶尔写一些技术文章，偶尔也胡思乱想。
+
+这个博客是我在互联网上的自留地——不追求流量，不接广告，纯粹记录自己的学习轨迹和零碎想法。
+
+## 💡 为什么建这个博客
+
+2026 年 1 月 25 日，我重新部署了这个博客。
+
+此前 2022 年到 2025 年间的博客数据意外丢失，三年的积累一夜归零。刚开始挺沮丧的，但后来想通了——写作的过程本身才是收获，数据丢了就重新开始。这次我做了更稳妥的备份策略，应该不会再重蹈覆辙了。
+
+所以你现在看到的每篇文章，都是 2026 年及之后新写的。
+
+## 📝 我会写些什么
+
+目前主要关注这些方向：
+
+- **机器学习**：高斯过程、贝叶斯推断、概率建模、模型的数学基础
+- **工具与效率**：好用的开发工具、工作流优化
+- **偶尔的碎碎念**：读书笔记、生活随感、不一定对的想法
+
+不喜欢写"XX 入门教程"式的文章，那种网上已经够多了。我倾向于写自己真正困惑过、思考过、最后搞明白了的东西，希望能对同样困惑的人有点帮助。
 
 ## 🛠️ 关于本站
 
-2026.1.25部署在 **Vercel**，因2022年-2025年博客数据丢失，遂为新博客，目前主要记录学习状况和生活。
+这个网站基于 **Astro** 构建，主题采用了 [Firefly](https://github.com/CuteLeaf/Firefly)（基于 [Fuwari](https://github.com/saicaca/fuwari) 的二次开发模板），托管在 **Vercel**。
 
-这个网站使用 **Astro** 框架构建，采用了 [Firefly](https://github.com/CuteLeaf/Firefly) 模板，Firefly 是基于 [Fuwari](https://github.com/saicaca/fuwari) 的二次开发。
-
-**Firefly** 是一款基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客主题模板，专为技术爱好者和内容创作者设计。该主题融合了现代 Web 技术栈，提供了丰富的功能模块和高度可定制的界面，让您能够轻松打造出专业且美观的个人博客网站。
-
-
-**📝Firefly使用文档： [https://docs-firefly.cuteleaf.cn](https://docs-firefly.cuteleaf.cn/)**
-
-**⭐Firefly开源地址：[https://github.com/CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly)** 
+选 Astro 的原因是它足够轻量——纯静态生成，没有多余的 JavaScript 包袱，同时也支持 MDX 方便嵌入组件。Firefly 主题本身设计得很干净，我就不花时间自己造轮子了。
 
 ::github{repo="CuteLeaf/Firefly"}
 
+## 📚 目前在读 / 在看
 
-## 📫 联系方式
+不定期更新，标记当前在啃的东西：
 
-如果你想和我交流技术问题，分享有趣的想法，或者只是想打个招呼，欢迎通过以下方式联系我：
+- *Gaussian Processes for Machine Learning* — Rasmussen & Williams（重读经典）
+- 维护一份自己的学习笔记，整理贝叶斯方法的体系
 
-- 💻 **GitHub**: [1chuci](https://github.com/1chuci)
-- ✉️ **Email**: [lcc91436@gmail.com](mailto:lcc91436@gmail.com)
+## 📫 找到我
+
+技术交流、文章纠错、或者单纯想聊几句，都欢迎：
+
+- **GitHub**：[1chuci](https://github.com/1chuci)
+- **邮箱**：[lcc91436@gmail.com](mailto:lcc91436@gmail.com)
+
+如果你发现文章里有错误，直接在对应的 GitHub 仓库提 issue 也行，邮箱也行，都很感谢。
 
 ---
 
-*感谢你的来访！希望在这里能找到对你有用的内容！*
+*这个博客没有任何统计追踪——你来或不来，它都在这里。*
 
